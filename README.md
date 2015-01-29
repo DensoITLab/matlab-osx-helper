@@ -4,7 +4,7 @@ Helper tool for MATLAB on OSX
 
 ## matlab.sh
 
-````matlab.sh```` locates and return newest MATLAB.app's path in your Mac.
+````matlab.sh```` locates and returns the newest MATLAB.app's path in your Mac.
 You can use this script in order to locate MATLAB's mex path for your Makefile.
 
     $ ./matlab.sh
